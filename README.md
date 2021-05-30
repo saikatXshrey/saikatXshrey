@@ -1,4 +1,5 @@
-![Saikat_Das](https://user-images.githubusercontent.com/76695320/120111400-71489b80-c18f-11eb-8905-9599d785603b.gif)
+![Saikat das](https://user-images.githubusercontent.com/76695320/120117101-381d2500-c1a9-11eb-9de7-52720f536c32.gif)
+
 ### Hi there 👋
 
 <!--
