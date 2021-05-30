@@ -1,3 +1,4 @@
+![Saikat_Das](https://user-images.githubusercontent.com/76695320/120111400-71489b80-c18f-11eb-8905-9599d785603b.gif)
 ### Hi there 👋
 
 <!--
