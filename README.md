@@ -5,14 +5,7 @@
 
 Welcome to my Github profile am glad that u visited my profile,and i hope you will get some useful stuff from here 😀
 
-- 🔭 I’m currently working on ... MERN Stack Projects (React.js,Node.js,Express,MongoDB,JavaScript)
-- 🌱 I’m currently learning ... Polishing my MERN skills to become comfy and great in it 🐒
-- 🤔 I’m looking for help with ... internship opportunity 😊
-- 💬 Ask me about ... anything u like to 🤗
+- 🔭 I’m currently working as Software Engineer in [CME Group](https://www.cmegroup.com/)
+- 🌱 I’m a Full Stack Engineer with specialization in Spring-Boot, MERN & cloud
 - 📫 How to reach me: ... 
--   1)👔LinkedIn : [LinkedIn](https://www.linkedin.com/in/saikat-das-767002209/)
--   2👓Facebook : [Facebook](https://www.facebook.com/emson.ray.31)
--   3)🎀Instagram : [Instagram](https://www.instagram.com/emson_x69/)
-- 😄 Pronouns: ... he
-- ⚡ Fun fact: ... i love memes😏
-- 🧠Current Goal ... to become SDE in a Tech Giant😄
+-   👔LinkedIn : [LinkedIn](https://www.linkedin.com/in/saikat-das-767002209/)
