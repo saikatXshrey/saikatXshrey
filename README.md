@@ -7,5 +7,4 @@ Welcome to my Github profile am glad that u visited my profile,and i hope you wi
 
 - 🔭 I’m currently working as Software Engineer in [CME Group](https://www.cmegroup.com/)
 - 🌱 I’m a Full Stack Engineer with specialization in Spring-Boot, MERN & cloud
-- 📫 How to reach me: ... 
--   👔LinkedIn : [LinkedIn](https://www.linkedin.com/in/saikat-das-767002209/)
+- 📫 How to reach me: 👔LinkedIn : [LinkedIn](https://www.linkedin.com/in/saikat-das-767002209/)
