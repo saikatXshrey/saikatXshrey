@@ -1,4 +1,4 @@
-### Hi there 👋 I am Saikat also you can call me "Shrey"
+### SWE3 @[CME Group](https://www.cmegroup.com/), B.Tech KIIT 23
 
 Welcome to my Github profile am glad that u visited my profile,and i hope you will get some useful stuff from here 😀
 
